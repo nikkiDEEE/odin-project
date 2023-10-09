@@ -1,0 +1,31 @@
+.header {
+    background-color: rgb(246, 243, 218);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+    color: blue;
+    background-color: white;
+    border: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 8px;
+}
+
+.logo {
+    font: 200;
+    background-color: white;
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}

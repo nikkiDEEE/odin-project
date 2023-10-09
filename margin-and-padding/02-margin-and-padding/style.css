@@ -1,0 +1,38 @@
+div {
+    background-color: lightgrey;
+}
+
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+.card {
+    padding: 8px;
+}
+
+.title {
+    background-color: lightblue;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+.content {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 16px 8px;
+}
+
+.button-container {
+    background-color: lightblue;
+    padding: 8px;
+    margin: 10px;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 8px 24px;
+}
